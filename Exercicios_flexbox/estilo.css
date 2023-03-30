@@ -36,23 +36,29 @@ h1 {
 /* Insira o código abaixo */
 
 .container1 {
-    
+    display: flex;
+    justify-content: start;
 }
 
 .container2 {
-    
+    display: flex;
+    justify-content: end;
 }
 
 .container3 {
-   
+   display: flex;
+   justify-content: center;
 }
 
 .container4 {
-    
+    display: flex;
+    justify-content: space-between;
 }
 .container5 {
-    
+    display: flex;
+    justify-content: space-around;
 }
-.container-6 {
-    
+.container6 {
+    display: flex;
+    justify-content: space-evenly;
 }
